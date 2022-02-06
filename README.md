@@ -13,3 +13,4 @@ these words are too technical, to sum it up, the crux of this course is to well-
 scenarios to be able to R code, and apply data analytical tools learnt in this course for future
 settings. This is so we can accurately and appropriately interpret results of different models, and
 being able to communicate to a larger general audience.
+lr so wath up
