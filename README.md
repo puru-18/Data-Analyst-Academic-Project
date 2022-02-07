@@ -1,15 +1,6 @@
-# Data-Analyst-Academic-Project
-This is an introduction to a mini-portfolio which I have completed to thoughtfully communicate my understanding of statistical
-concepts and make decisions on using the best hypothesis testing for a given scenario. I have learnt
-new R coding functions in this STA303 class that optimized my time spent on making R coding
-efficient and neat. To give a little context about STA303 (Data Analysis II Course at UofT), this course is a Data Analysis II course
-for third year students which focuses heavily on technical coding and refining writing and verbal
-skills. This is helpful in demonstrating skills such as collaboration, and communication. The
-learning objectives of this course is to teach students about data exploratory analysis, not limited
-to, wrangling, data visualization, and data cleansing and investigating ethical considerations in
-data analysis. Theoretically speaking now, the need to understand assumptions and the usage
-cases for linear mixed models, generalized linear mixed models, and additive models. Although
-these words are too technical, to sum it up, the crux of this course is to well-verse with various
-scenarios to be able to R code, and apply data analytical tools learnt in this course for future
-settings. This is so we can accurately and appropriately interpret results of different models, and
-being able to communicate to a larger general audience.
+# Data-Analyst-Investigating-Effects-on-Blood-Pressure-Project
+This project investigates the effect of smoking as well as other health/nutrition factors on combined systolic blood pressure reading. The project incorporates the use of a multi-regression model. I conduct the data analysis by first focusing on Model diagnostics to ensure all assumptions are met, and if any case it is not, then I will need to re-validate the assumptions and investigate furrther. This could mean a transformation or removing some outliers depending on the importance. One way to check for which variables to keep is by examining the variance inflation factor (VIF) for detecting multicollinearity between predictors. Then, choosing one variable selection method such as stepwise regression for AIC, BIC, and then Lasso selection to compare which model will be the best for our given scenario. At last, one needs to cross validate the new regression model to make sure the choosen variable selection method works the best, and make sure all model assumptions for the final model is met. This is the approach taken for this final project. The goal of this project is to demonstrate my data analysis knowledge by performing exploratory analysis and portraying an easy, simple to understand results for a larger general audience.
+
+
+
+
