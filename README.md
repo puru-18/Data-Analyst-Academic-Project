@@ -1,14 +1,8 @@
-# Investigating Plastic Emissions in Ocean Data-Analyst-Academic-Project
+# UniSelect - Business Feasibility Analytical-Project
 
-I have always been passionate about decoding societal problems, and trying to make a positive impact in our society. This is one such commendable project I worked on
-at University Of Toronto. This project is about the ongoing problems of plastic in our daily lives. Although, its extensive range of applications allows for
-economic growth and is therefore a crucial component to many industrial and commercial purposes. However, most types of plastic contain non-biodegradable materials 
-which require additional care for proper disposal. Wealthier nations who can afford to offload their share of the burden often do so at the expense of developing 
-nations. In many cases, developing nations import plastic waste out of necessity in exchange for monetary benefits but do not have the capacity for a proper disposal,
-meaning a significant portion gets expelled to the ocean. This presents the image that developing nations, particularly in the South-Eastern Asia area, are ultimately
-responsible for the majority of ocean waste. In this project, I was the team lead, and made sure we all contribute in unique ways to our full potency. We all agreed 
-upon creating a data-driven article which examines the origins of ocean plastic and how nations use international trade as a means to dispose of their plastic emission.
-We presented innovative new technologies on the rise, as well as some of the best waste management policies that corporations and global leaders can mimic. Ultimately,
-plastic emissions has a global effect, and it is in the best interest of everyone to minimize plastic waste expelled to the ocean. We did coding mostly through R,
-however, for merging complex datasets, we used SQL and for visualization dashboard we used Tableau which we integrated into R later on. This project was given the 
-academic benchmark award in lecture.
+This project showcases my financial side of analytical skills as well as my collaboration skills as I worked with a PepsiCo Financial Analyst manager as well as with a 
+team of 7 people. This project is about a simulated education model for a SaaS business venture called "UniSelect". We generated a feasibility report by conducting
+a market timeliness analysis, scenario/resource analysis, evaluating and optimizing price model based on research, learning to make an impactful business intelligence report, and assessing KPI factors such as ROI, sales growth. Our venture project "UniSelect" is here to solve a problem in our education industry which is to ease the
+workload of guidance counsellors in providing an accurate way for students to choose their post-secondary institution. Our venture model aims to change these conditions by providing a computer application for school guidance offices and high school seniors. The UniSelect application consists of personalized questionnaires that are completed by senior students, who are then matched with the post-secondary institutions best suited to their requirements. It also offers additional services
+such as access to university alumni. This project reports our innovative venture idea, as well as leveraging the era of digitalization and AI for revolutionalizing 
+the path to choosing a post-secondary institution in a much easier and hassle free way.  
