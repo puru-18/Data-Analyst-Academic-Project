@@ -1,4 +1,4 @@
-# Change in smartphone usage and mental health from before to during COVID-19
+# Change in smartphone usage and mental health from before to during COVID-19 Analyst Academic Project
 
 In 2020, the world was faced with a pandemic that forced students to be indoors while participating in online learning. This caused students to change their
 lifestyle due to the restrictions that were put into place in Ontario. Due to the rapid change in student’s lifestyles, our team decided to conduct a study and
