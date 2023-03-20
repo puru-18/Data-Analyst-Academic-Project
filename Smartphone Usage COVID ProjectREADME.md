@@ -10,5 +10,5 @@ this study are important as it will shed light on the possible effects of Covid-
 and can be an important factor to consider when choosing a learning method for students. I played an integral 
 role in this project which was worth 45% of our overall grade. My expertise in making complicated findings
 in a simpler way, my analytical thinking, communication was greatly appreciated in our team. I am really proud
-of this project that stands close to my heart for a compelling data analyst project that was done completely
-in R. 
+of this project that stands close to my heart for a compelling data analyst project that was done through SQL
+(for data anomaly exploration) and coding being done completely in R. 
