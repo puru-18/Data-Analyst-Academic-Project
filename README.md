@@ -1,4 +1,4 @@
-# Data-Analyst-Academic-Project
+# Investigating Plastic Emissions in Ocean Data-Analyst-Academic-Project
 
 I have always been passionate about decoding societal problems, and trying to make a positive impact in our society. This is one such commendable project I worked on
 at University Of Toronto. This project is about the ongoing problems of plastic in our daily lives. Although, its extensive range of applications allows for
